@@ -1,0 +1,21 @@
+{
+  "name": "com.sorceressspell.librarioh.unity.io",
+  "displayName": "LibrarIoh.Unity.IO",
+  "version": "0.1.0",
+  "type": "library",
+  "unity": "2018.1",
+  "description": "LibrarIoh.Unity.IO (https://github.com/SorceressSpell/LibrarIoh.Unity.IO)\n\nLibrarioh's Unity IO utils.\n\nDepends on:\n  - LibrarIoh.IO (https://github.com/SorceressSpell/LibrarIoh.IO)",
+  "dependencies": {
+    "com.sorceressspell.librarioh.io": "0.2.0"
+  },
+  "author": {
+    "name": "Sorceress' Spell",
+    "email": "Sorceress.Spell@gmail.com",
+    "url": "http://SorceressSpell.com"
+  },
+  "keywords": [
+    "librarioh",
+    "unity",
+    "io"
+  ]
+}
