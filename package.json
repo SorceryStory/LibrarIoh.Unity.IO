@@ -1,12 +1,12 @@
 {
   "name": "com.sorceressspell.librarioh.unity.io",
   "displayName": "LibrarIoh.Unity.IO",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "library",
   "unity": "2018.1",
   "description": "LibrarIoh.Unity.IO (https://github.com/SorceryStory/LibrarIoh.Unity.IO)\n\nLibrarioh's Unity IO utils.\n\nDepends on:\n  - LibrarIoh.IO (https://github.com/SorceryStory/LibrarIoh.IO)",
   "dependencies": {
-    "com.sorceressspell.librarioh.io": "0.2.0"
+    "com.sorceressspell.librarioh.io": "0.2.1"
   },
   "author": {
     "name": "Joana Almeida",
